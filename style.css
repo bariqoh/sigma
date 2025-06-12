@@ -1,0 +1,14 @@
+
+/* Base Styling */
+body
+{
+    text-align:start;
+    font-family:monospace;
+    font-size: 1.0rem;
+    background-color:whitesmoke;
+    color:slateblue;
+    font-display:fallback;
+    border-top-style: dashed;
+    border-bottom-style:dotted;
+    
+}
